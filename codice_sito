@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>negriundermyskin</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Helvetica Neue', sans-serif;
+      background-color: #ffffff;
+      color: #004080;
+      line-height: 1.6;
+    }
+
+    header {
+      padding: 4rem 2rem;
+      text-align: center;
+      border-bottom: 1px solid #ddd;
+    }
+
+    header h1 {
+      font-size: 3rem;
+      margin-bottom: 0.5rem;
+      text-transform: uppercase;
+      letter-spacing: 2px;
+    }
+
+    header p {
+      font-size: 1.2rem;
+      max-width: 600px;
+      margin: 0 auto;
+    }
+
+    section {
+      padding: 3rem 2rem;
+      max-width: 800px;
+      margin: 0 auto;
+      text-align: center;
+    }
+
+    section h2 {
+      font-size: 2rem;
+      margin-bottom: 1rem;
+    }
+
+    footer {
+      text-align: center;
+      padding: 2rem;
+      font-size: 0.9rem;
+      color: #777;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>negriundermyskin</h1>
+    <p>Un'esplorazione artistica tra pelle, identità e profondità interiore.</p>
+  </header>
+
+  <section>
+    <h2>Benvenuto</h2>
+    <p>
+      Questo progetto nasce dall'idea di ciò che vive sotto la superficie — emozioni, esperienze, visioni.  
+      <br><br>
+      Presto condividerò contenuti, opere e pensieri che danno forma a questo viaggio.
+    </p>
+  </section>
+
+  <footer>
+    &copy; 2025 negriundermyskin – Tutti i diritti riservati
+  </footer>
+
+</body>
+</html>
